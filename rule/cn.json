@@ -1,0 +1,26 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        ".tmall.",
+        "alicdn",
+        "alipay",
+        "aliyun",
+        "baidu",
+        "taobao"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "CN"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "198.11.136.0/24",
+        "198.11.188.0/25"
+      ]
+    }
+  ],
+  "version": 2
+}
